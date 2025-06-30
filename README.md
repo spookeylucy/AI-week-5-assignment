@@ -1,3 +1,36 @@
+# Hospital 30-Day Readmission Risk Predictor - PART 2 (CHARITY MUIGAI)
+
+## Overview
+AI system to predict patient readmission risk within 30 days of discharge, helping hospitals reduce penalties and improve patient outcomes.
+
+## Problem Statement
+- **Goal:** Reduce readmission rates by 15% in 12 months
+- **Target Users:** Physicians, nurses, case managers
+- **Impact:** Lower Medicare penalties, better patient care
+
+## Solution Approach
+- **Model:** XGBoost (interpretable, handles mixed healthcare data)
+- **Data Sources:** EHRs, demographics, medical history, lab results
+- **Key Features:** Comorbidity scores, medication complexity, admission patterns
+
+## Performance Metrics
+- **Precision:** 60% (reliable risk flagging)
+- **Recall:** 75% (catches most at-risk patients)
+- **Integration:** Real-time EHR dashboard alerts
+
+## Compliance & Ethics
+- ✅ HIPAA-compliant deployment
+- ✅ Addresses algorithmic bias concerns  
+- ✅ Patient consent protocols
+- ✅ Audit logging and encryption
+
+## Next Steps
+1. Deploy on secure hospital infrastructure
+2. Train clinical staff on risk score interpretation
+3. Monitor performance and adjust thresholds
+4. Implement feedback loops for continuous improvement
+
+
 # Critical Thinking in AI for Healthcare – Part 3
 
 This document contains responses to Part 3 of a healthcare-focused AI critical thinking assignment. The focus is on analyzing **ethical concerns**, **data bias**, and **model trade-offs** in the deployment of machine learning models in clinical settings.
