@@ -25,3 +25,8 @@ This write-up is suitable for:
 ## ✍️ Author
 
 Prepared with assistance from ChatGPT to reflect clear, concise, and well-reasoned critical thinking on applied machine learning in healthcare.
+
+Part 4: Reflection & Workflow Diagram 
+
+2. AI Development Workflow Diagram
+The flowchart provides a clear and visually enhanced overview of the AI Development Workflow. Each stage—from Data Collection to Model Deployment—is illustrated with distinct colors and representative visuals to aid comprehension and retention. The diagram is designed to support classroom learning by making complex steps in AI development more accessible and engaging. It serves as both a study aid and a teaching tool for understanding how raw data is transformed into functional, intelligent systems.
