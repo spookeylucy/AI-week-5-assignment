@@ -63,3 +63,54 @@ Part 4: Reflection & Workflow Diagram
 
 2. AI Development Workflow Diagram
 The flowchart provides a clear and visually enhanced overview of the AI Development Workflow. Each stage—from Data Collection to Model Deployment—is illustrated with distinct colors and representative visuals to aid comprehension and retention. The diagram is designed to support classroom learning by making complex steps in AI development more accessible and engaging. It serves as both a study aid and a teaching tool for understanding how raw data is transformed into functional, intelligent systems.
+🔁 Machine Learning Pipeline
+
+
+┌──────────────────────┐
+│ 1. Problem Definition│
+│ Define objective,    │
+│ stakeholders, KPI    │
+└─────────┬────────────┘
+          │
+          ▼
+┌──────────────────────┐
+│ 2. Data Collection   │
+│ Gather relevant data │
+│ from multiple sources│
+└─────────┬────────────┘
+          │
+          ▼
+┌───────────────────────────┐
+│ 3. Data Preprocessing     │
+│ Clean, normalize, encode  │
+│ Handle missing values     │
+└─────────┬─────────────────┘
+          │
+          ▼
+┌────────────────────────────┐
+│ 4. Model Development       │
+│ Select model, split data,  │
+│ tune hyperparameters       │
+└─────────┬──────────────────┘
+          │
+          ▼
+┌────────────────────────────┐
+│ 5. Evaluation              │
+│ Use metrics (e.g., F1, AUC)│
+│ Compare model performance  │
+└─────────┬──────────────────┘
+          │
+          ▼
+┌────────────────────────────┐
+│ 6. Deployment              │
+│ Integrate into system,     │
+│ ensure scalability,        │
+│ monitor real-world usage   │
+└─────────┬──────────────────┘
+          │
+          ▼
+┌────────────────────────────┐
+│ 7. Monitoring & Maintenance│
+│ Detect concept drift,      │
+│ retrain model periodically │
+└────────────────────────────┘
